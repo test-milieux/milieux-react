@@ -1,0 +1,80 @@
+{
+  "milieuxbauhaus": [
+    {
+      "title": "MilieuXBauhaus - Nov 5-14, 2019",
+      "media": {
+        "type": "image",
+        "src": "bauhaus.gif"
+      },
+      "text": ""
+    },
+    {
+      "title": "LePARC’s Kaleidoscopic Dances",
+      "media": {
+        "type": "image",
+        "src": "danses.jpg"
+      },
+      "text": "In Pierre-Marc Ouellette's <strong>Kaleidoscopic Dances</strong>, people were invited into the open rehearsal of the installation-performance work-in-progress. The project, based on historical research on Oskar Schlemmer’s Triadic Ballet (1922), examined the links between body, image and technology.<br/><br/>[Photo by Manon De Pauw; Dancer: Natalie Zoey Gauld.]"
+    },
+    {
+      "title": "The Ultimate Goal: A Bauhaus Adventure in Minecraft",
+      "media": {
+        "type": "video",
+        "host": "vimeo",
+        "id": "463997538"
+      },
+      "text": "<strong>Technoculture, Art and Games (TAG)</strong> brought Minecraft and Bauhaus together by reflexively building a custom-modded multiplayer survival-mode game lasting 30 days. Builders modernized a village in Minecraft by interpreting design principles from the historical Bauhaus, as they encountered the problems of resource extraction and exploitation, the politics of urban renewal, assumptions about material logistics and infrastructure, the negotiation of idealized plans and the situatedness of actions."
+    },
+    {
+      "title": "Transitions: A field intensive at La Station",
+      "media": {
+        "type": "image",
+        "src": "transitions1.jpg"
+      },
+      "text": "<em>Transitions</em> was a four-day field intensive inspired by Bauhaus. Members of the <strong>Speculative Life Cluster</strong> traveled to La Station, the decommissioned Nun’s Island gas station (1969) designed by Mies van Der Rohe (last principal of the Bauhaus), which has been recently converted into an intergenerational community centre (2011). There, they collectively imagined and proposed material and ecological transitions toward post-Anthropo-/Capitalo-cene futures.<br/><br/>Learn more <a href=\"https://speculativelife.com/transitions\" target=\"_blank\" class=\"link black underline dim\">here</a>.<br/><br/>[Photo: ’Deep Listening soundwalk led by Tricia Tosco’ by Matthew-Robin Nye]"
+    }
+  ],
+  "modernmeetspostmoderncrisis": [
+    {
+      "title": "#RubyCoders",
+      "media": {
+        "type": "image",
+        "src": "rubycoders.jpg"
+      },
+      "text": "#RubyCoders working from home during COVID-19"
+    },
+    {
+      "title": "Virtual Gallery Opening: <em>Reformatted</em>",
+      "media": {
+        "type": "video",
+        "host": "facebook",
+        "id": "227389378529117"
+      },
+      "text": "<strong>AbTeC</strong> welcomed approximately 30 visitors to a vernissage in Second Life, and another 80 guests who livestreamed the event. The inaugural exhibition features artwork from 11 indigenous artists that were reformatted to be showcased online after COVID-19 shut everything down.<br/><br/>Read the <a href=\"https://milieux.concordia.ca/virtual-gallery-opening-works-from-11-indigenous-artists/\" target=\"_blank\" class=\"link black underline dim\">full story</a>."
+    },
+    {
+      "title": "Research-Creation: Face Mask Edition",
+      "media": {
+        "type": "image",
+        "src": "masks.jpg"
+      },
+      "text": "In May, <strong>Barbara Layne</strong>, co-leader of the <strong>Textiles & Materiality Cluster</strong> organized a crew of 35 volunteers to sew more than 2,500 cloth face masks for donation. Meanwhile, <strong>Ann-Louise Davidson</strong>, leader of the <strong>Education Makers</strong>, launched a Face Mask Challenge, calling on students to create new face mask designs. They had the opportunity to work with world-class experts in fibres and filtration, and will present their final prototypes and discuss the challenges they faced and facts they uncovered next year.<br/><br/>Learn more <a href=\"https://milieux.concordia.ca/volunteers-sewing-masks-during-covid-19-pandemic/\" target=\"_blank\" class=\"link black underline dim\">here</a> and <a href=\"https://www.facebook.com/1915567261898203/videos/1179647885751714\" target=\"_blank\" class=\"link black underline dim\">here</a>."
+    },
+    {
+      "title": "New Nature",
+      "media": {
+        "type": "image",
+        "src": "newnature.jpg"
+      },
+      "text": "In May 2020, the Milieux Institute partnered with the <strong>Goethe-Institut Montreal</strong> to launch a program of international exchange over the course of 2020 called <strong><a href=\"https://www.goethe.de/ins/ca/en/kul/sup/nat/21905662.html\" target=\"_blank\" class=\"link black underline dim\">New Nature</a></strong>. The series of encounters engage 25 leading climate scientists, artists and technologists from Canada, Germany, Mexico and the U.S. in conversation about immersive media and climate science. Two students and two faculty from Milieux participated in the event.<br/><br/>Learn more <a href=\"https://www.goethe.de/ins/ca/en/kul/sup/nat.html\" target=\"_blank\" class=\"link black underline dim\">here</a>."
+    },
+    {
+      "title": "An ‘escape room’ from elder abuse",
+      "media": {
+        "type": "image",
+        "src": "escape.jpg"
+      },
+      "text": "Researchers from <strong>Ageing + Communication + Technologies (ACT)</strong>, part of the <strong>Participatory Media Cluster</strong>, worked with activist from a Montreal-based advocacy group to build and operate an ‘escape room’ on the idea of an older person dealing with psychological abuse, the denial of rights, financial abuse, and physical abuse. Their findings became extremely relevant as the pandemic placed systemic ageism and elder abuse at the center of public discourse. Read the <a href=\"https://doi.org/10.1007/s40869-020-00105-5\" target=\"_blank\" class=\"link black underline dim\">paper</a> and the <a href=\"https://milieux.concordia.ca/building-an-escape-room-to-draw-attention-to-elder-abuse/\" target=\"_blank\" class=\"link black underline dim\">full story</a>."
+    }
+  ]
+}

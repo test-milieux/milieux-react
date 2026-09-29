@@ -1,0 +1,208 @@
+{
+  "name": "Milieux - Project Highlights",
+  "img": "middle_circle.png",
+  "children": [
+    {
+      "project": "Machine Agencies",
+      "url": "https://machineagencies.org/",
+      "children": [
+        {
+          "parent": "Machine Agencies",
+          "parentUrl": "https://machineagencies.org/",
+          "event": "Machine Agencies Speaker Series",
+          "description": "Building upon generative intersections of critical security studies and science and technology studies (STS), Prof. of sociology Lucy Suchman argued in this talk that the promotion of automated data analysis under the sign of artificial intelligence can only serve to exacerbate military operations that are at once discriminatory and indiscriminate in their targeting, while remaining politically and legally unaccountable. She closed with some thoughts on how we might interrupt the workings of these apparatuses, in the service of wider movements for social justice.",
+          "media": {
+            "type": "image",
+            "src": "aiposter.jpg"
+          },
+          "img": "aiposter.jpg",
+          "size": 40000
+        },
+        {
+          "parent": "Machine Agencies",
+          "parentUrl": "https://machineagencies.org/",
+          "event": "Machine Menagerie",
+          "media": {
+            "type": "image",
+            "src": "machines1.jpg"
+          },
+          "img": "machines1.jpg",
+          "size": 40000
+        },
+        {
+          "parent": "Machine Agencies",
+          "parentUrl": "https://machineagencies.org/",
+          "event": "‘Yelling at Computers’ Poster",
+          "media": {
+            "type": "image",
+            "src": "machines2.jpg"
+          },
+          "img": "machines2.jpg",
+          "size": 40000
+        }
+      ]
+    },
+    {
+      "project": "BioLab",
+      "url": "https://speculativelifebiolab.com/",
+      "children": [
+        {
+          "parent": "BioLab",
+          "parentUrl": "https://speculativelifebiolab.com/",
+          "event": "MilieuxMake Workshop: Bacterial Portraiture",
+          "description": "The BioLab led its first Bacteriart workshop of the year yesterday. Inspired by our Jonas Salk bacterial portraits that we created with TAG’s Jess Marcotte this summer and based on a workshop developed by WhiteFeather Hunter—as well as research done by our homegrown research-creation team: The Bactinctorium—the lab decided to explore the use of the pigment producing bacteria Serratia marcences for petri dish portraiture.<br/><br/>Read more <a class='link black underline dim' href='https://speculativelifebiolab.com/2020/01/28/bacterial-portraiture-day-i/' target='_blank'>here</a>",
+          "media": {
+            "type": "image",
+            "src": "bacterial.jpg"
+          },
+          "img": "bacterial.jpg",
+          "size": 40000
+        },
+        {
+          "parent": "BioLab",
+          "parentUrl": "https://speculativelifebiolab.com/",
+          "event": "Myosculpture Workshop Part I",
+          "media": {
+            "type": "image",
+            "src": "biolab1.jpg"
+          },
+          "img": "biolab1.jpg",
+          "size": 40000
+        },
+        {
+          "parent": "BioLab",
+          "parentUrl": "https://speculativelifebiolab.com/",
+          "event": "Myosculpture Workshop Part II",
+          "media": {
+            "type": "image",
+            "src": "biolab2.jpg"
+          },
+          "img": "biolab2.jpg",
+          "size": 40000
+        }
+      ]
+    },
+    {
+      "project": "Waterways",
+      "url": "https://speculativelife.com/montreal-waterways/",
+      "children": [
+        {
+          "parent": "Waterways",
+          "parentUrl": "https://speculativelife.com/montreal-waterways/",
+          "event": "Ghost River Project",
+          "description": "Montreal Waterways is an Ethnographic research and creation group based out of the Ethnography Lab at Milieux's Speculative Life Research Cluster. In January 2020, they launched the Ghost River Project: an interactive map of one of Montreal’s lost rivers. The project pieces together the pasts, presents, and possible futures of Saint Pierre, a major waterway that cut across the West of the island for much of its history. Canalized and buried underground throughout the 18th, 19th, and 20th centuries, the river now exists as a ghost, haunting the city’s landscape, infrastructure, and historical imagination.<br/><br/>See the project <a class='link black underline dim' href='https://ethnographylabconcordia.ca/ghostriver' target='_blank'>here</a>",
+          "media": {
+            "type": "image",
+            "src": "waterways.jpg"
+          },
+          "img": "waterways.jpg",
+          "size": 40000
+        },
+        {
+          "parent": "Waterways",
+          "parentUrl": "https://speculativelife.com/montreal-waterways/",
+          "event": "The Big Flush",
+          "media": {
+            "type": "image",
+            "src": "waterways1.jpg"
+          },
+          "img": "waterways1.jpg",
+          "size": 40000
+        },
+        {
+          "parent": "Waterways",
+          "parentUrl": "https://speculativelife.com/montreal-waterways/",
+          "event": "St. Pierre River",
+          "media": {
+            "type": "image",
+            "src": "waterways2.jpg"
+          },
+          "img": "waterways2.jpg",
+          "size": 40000
+        }
+      ]
+    },
+    {
+      "project": "Immersive Realities Lab",
+      "url": "https://postimage.hexagram.ca/research/vr/",
+      "children": [
+        {
+          "parent": "Immersive Realities Lab",
+          "parentUrl": "https://postimage.hexagram.ca/research/vr/",
+          "event": "Immersive Reality Lab: Liquid Perceptions Showcase",
+          "description": "In December 2019, the Immersive Realities Lab invited Milieux members to a presentation of their work-in-progress: Liquid Perceptions. Participants took turns playing the interacting with the experience and offered feedback to its creators, including Olivia McGilchrist, Dougy Herard, Julia Salles, Sayed Tabatabaei, Marco Luna, Bart Simon, and Gada Jane. <br/><br/>Liquid Perceptions is an interactive VR experience about the interconnections between the goals we set and the balance of marine ecosystems. The project was a collaboration with the University of Waterloo.",
+          "media": {
+            "type": "image",
+            "src": "liquidperceptions.jpg"
+          },
+          "img": "liquidperceptions.jpg",
+          "size": 40000
+        },
+        {
+          "parent": "Immersive Realities Lab",
+          "parentUrl": "https://postimage.hexagram.ca/research/vr/",
+          "event": "Liquid Perceptions",
+          "media": {
+            "type": "image",
+            "src": "vrlab1.jpg"
+          },
+          "img": "vrlab1.jpg",
+          "size": 40000
+        },
+        {
+          "parent": "Immersive Realities Lab",
+          "parentUrl": "https://postimage.hexagram.ca/research/vr/",
+          "event": "Immersive Realities Lab",
+          "media": {
+            "type": "image",
+            "src": "vrlab2.jpg"
+          },
+          "img": "vrlab2.jpg",
+          "size": 40000
+        }
+      ]
+    },
+    {
+      "project": "Education Makers",
+      "url": "https://www.educationmakers.ca/",
+      "children": [
+        {
+          "parent": "Education Makers",
+          "parentUrl": "https://www.educationmakers.ca/",
+          "event": "Music Making Workshop",
+          "description": "Open-source electronics and upcycled materials present new possibilities for removing barriers to music. From hacking a guitar to controlling a computer, to forging a theremin out of tinfoil, these instrument-making workshops held in November 2019 demonstrated how new and adapted musical instruments can open up access in novel ways. Learn more <a class='link black underline dim' href='http://www.educationmakers.ca/project/music-access' target='_blank'>here</a>.",
+          "media": {
+            "type": "video",
+            "host": "vimeo",
+            "id": "465583957"
+          },
+          "img": "musicmaking.jpg",
+          "size": 40000
+        },
+        {
+          "parent": "Education Makers",
+          "parentUrl": "https://www.educationmakers.ca/",
+          "event": "Post-Arduino Day Celebration",
+          "media": {
+            "type": "video",
+            "host": "facebook",
+            "id": "285238069545469"
+          },
+          "img": "arduinoday.jpg",
+          "size": 40000
+        },
+        {
+          "parent": "Education Makers",
+          "parentUrl": "https://www.educationmakers.ca/",
+          "event": "Tactile Sound Workshop",
+          "media": {
+            "type": "image",
+            "src": "edumaker.jpg"
+          },
+          "img": "edumaker.jpg",
+          "size": 40000
+        }
+      ]
+    }
+  ]
+}

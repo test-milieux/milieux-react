@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Milieux Annual Report 2019–20 (Next.js)
 
-## Getting Started
+Rebuild of the Milieux annual report site, originally vanilla JS + Webpack + D3 + p5, migrated to Next.js and React.
 
-First, run the development server:
+Live: https://test-milieux.github.io/
+Original version: branch `original-vanilla` of test-milieux/test-milieux.github.io
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## What changed
+- Each repeated piece is one component: `Carousel`, `HighlightsGraph` (D3 owns the SVG, React owns the state), `Media`.
+- Graph and carousel content is driven by JSON, not HTML copied by hand.
+- Original CSS, fonts and data were reused on purpose, so visual parity with the original could be checked in the browser.
+- Static export (`output: 'export'`) deployed to GitHub Pages.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Run it
+    npm install
+    npm run dev
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Build
+    npm run build   # generates out/
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Workflow
+Migrated step by step with an AI assistant: I set the goal (visual parity) and constraints (reuse CSS and assets), ran each step and verified it against the live original.
