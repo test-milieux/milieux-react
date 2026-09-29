@@ -23,7 +23,6 @@ The original site was vanilla JS with Webpack. This version rebuilds it in Next.
 - The original CSS, fonts and data were reused on purpose, so visual parity with the original could be checked in the browser.
 - Static export (`output: 'export'`) deployed to GitHub Pages.
 
-The migration was done step by step with an AI assistant: I set the goal (visual parity) and the constraints (reuse CSS and assets), ran each step and checked it against the live original.
 
 ## Run it
 
